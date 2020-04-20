@@ -5,9 +5,11 @@ import org.testng.annotations.Test;
 public class appiumTest {
 
 	@Test
-	public void nativeAppAndroid()
+	public void nativeAppAndroid123()
 	{
-		System.out.println("nativeAppAndroid");
+		System.out.println("nativeAppAndroid1");
+		System.out.println("nativeAppAndroid2");
+		System.out.println("nativeAppAndroid3");
 	}
 	
 	@Test
